@@ -1,0 +1,5 @@
+train: ../sec1/train/images
+val: ../sec1/valid/images
+
+nc: 1
+names: ["Vehicle"]
