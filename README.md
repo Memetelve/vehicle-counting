@@ -34,7 +34,7 @@ The biggest challenge was finding a suitable dataset for training. The dataset u
 
 ![x](runs/train/results.png)
 
-The model was trained for 20 epochs using a single 2060 RTX GPU. That took over 4.5 hours and as we can see on the validation statistics the model could have been trained for more epochs, but my PC was not happy :(.
+The model was trained for 180 epochs using a single 2060 RTX GPU. That took over 38 hours and as we can see on the validation statistics the model could have been trained for more epochs, but my PC was not happy :(.
 
 ### Data preprocessing
 
